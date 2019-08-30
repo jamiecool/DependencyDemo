@@ -1,0 +1,14 @@
+{
+  "name": "@dependabot/helper",
+  "private": true,
+  "bin": {
+    "helper": "run.js"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "eslint-utils": "1.3.0"
+  }
+}
